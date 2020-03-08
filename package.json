@@ -1,0 +1,9 @@
+{
+  "name": "chat-app",
+  "version": "0.1.0",
+  "description": "Simple chat app",
+  "author": "Natalia Vorobeva",
+  "scripts": {
+    "start": "yarn --cwd ./server dev & yarn --cwd ./client serve"
+  }
+}
